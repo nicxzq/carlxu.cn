@@ -1,0 +1,5 @@
+baseURL = "http://www.carlxu.cn"
+title = "Carl xu's Study Notes"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
