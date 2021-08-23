@@ -4,6 +4,9 @@ author: Carlxu
 type: post
 date: 2019-10-11T11:22:44+00:00
 url: /201910/547/
+aliases: [
+    "/zh-cn/money/2019-10-11-fen-xiang-zi-chan-he-fu-zhai/"
+]
 categories:
   - 个人日记
   - 生活笔记

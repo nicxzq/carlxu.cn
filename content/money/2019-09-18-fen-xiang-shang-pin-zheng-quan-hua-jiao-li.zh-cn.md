@@ -4,6 +4,9 @@ author: Carlxu
 type: post
 date: 2019-09-18T14:38:59+00:00
 url: /201909/555/
+aliases: [
+    "/zh-cn/money/2019-09-18-fen-xiang-shang-pin-zheng-quan-hua-jiao-li/"
+]
 categories:
   - 个人日记
   - 生活笔记

@@ -1,15 +1,23 @@
-baseURL = "http://www.carlxu.cn"
+baseURL = "https://nicxzq.github.io/"
 title = "Carl xu's Blog"
 theme = "hugo-coder"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
+
+enableRobotsTXT = true
+canonifyURLs = true
+
+enableGitInfo = true
+enableEmoji = true
+
 paginate = 9999
-pygmentsStyle = "bw"
+
+pygmentsStyle = "b2"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
-enableEmoji = true
-# Enable Disqus comments
-# disqusShortname = "yourdiscussshortname"
+pluralizelisttitles = false
+
+FootnoteReturnLinkContents = "↑"
 
 [params]
     author = "Carl xu"
@@ -45,11 +53,9 @@ enableEmoji = true
     maxSeeAlsoItems = 6
     # Enable Twemoji
     enableTwemoji = false
-    # Custom CSS
+    # Custom CSS,JS
     customCSS = []
-    # Custom SCSS
     customSCSS = []
-    # Custom JS
     customJS = []
 
 
@@ -75,7 +81,7 @@ enableEmoji = true
     name = "WeChat"
     icon = "fa fa-weixin"
     weight = 2
-    #url = "https://medium.com/@johndoe"
+    url = "https://pic.carlxu.cn/2020-01-28-%E6%A9%99%E5%AD%90%E4%BB%96%E7%88%B8.gif"
 
 #[[params.social]]
 #    name = "ZhiHu"
