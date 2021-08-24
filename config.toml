@@ -66,10 +66,21 @@ FootnoteReturnLinkContents = "↑"
     author = "authors"
 
 # Comments on github issue
-[params.utteranc]
-    repo = "nicxzq/carlxu.cn"
-    issue-term = "pathname"
-    theme = "github-light"
+#[params.utteranc]
+#    repo = "nicxzq/carlxu.cn"
+#    issue-term = "pathname"
+#    theme = "github-light"
+
+
+[params.valine]
+    enable = true
+    appId = '8dDDC5lONMI6PVEEFMxSfyPJ-gzGzoHsz'
+    appKey = 'BTyfiEUX2at1zA4npgx7naaw'
+    notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+    verify = false # Verification code
+    avatar = 'mm'
+    placeholder = '说点什么吧...'
+    visitor = true
 
 [[params.social]]
     name = "Github"
@@ -89,13 +100,13 @@ FootnoteReturnLinkContents = "↑"
 #    weight = 3
 #    url = "https://zhuanlan.zhihu.com/nicxzq"
 
-[[params.social]]
-    name = "RSS"
-    icon = "fa fa-rss"
-    weight = 4
-    url = "https://carlxu.cn/index.xml"
-    rel = "alternate"
-    type = "application/rss+xml"
+# [[params.social]]
+#    name = "RSS"
+#    icon = "fa fa-rss"
+#    weight = 4
+#    url = "https://carlxu.cn/index.xml"
+#    rel = "alternate"
+#    type = "application/rss+xml"
 
 [languages.zh-cn]
     languageName = "中文"
