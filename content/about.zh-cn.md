@@ -3,6 +3,7 @@ title = "关于本站"
 description = "关于本站"
 keywords = "关于本站"
 outputs = "html"
+comments = false
 +++
 
 ```text
