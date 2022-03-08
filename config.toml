@@ -41,7 +41,6 @@ FootnoteReturnLinkContents = "↑"
     hideCopyright = false
     since = 2016
     version = "0.2.X"
-    themesDir = "../.."
 
 
 # Git Commit in Footer, uncomment the line below to enable it
