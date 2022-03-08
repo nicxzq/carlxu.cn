@@ -1,6 +1,7 @@
 # baseURL = "https://nicxzq.github.io/"
 title = "Carl xu's Blog"
-theme = "LoveIt"
+# theme = "LoveIt"
+theme = "hugo-coder"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
 
@@ -40,7 +41,7 @@ FootnoteReturnLinkContents = "↑"
     hideCredits = true
     hideCopyright = false
     since = 2016
-    version = "0.2.X"
+#    version = "0.2.X"
 
 
 # Git Commit in Footer, uncomment the line below to enable it
