@@ -61,3 +61,15 @@ other = "警告"
 
 [error]
 other = "错误"
+
+[back]
+other = "返回"
+
+[home]
+other = "主页"
+
+[prev]
+other = "上一篇："
+
+[next]
+other = "下一篇："

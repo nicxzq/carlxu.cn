@@ -9,6 +9,11 @@
     </header>
 
     {{ .Content }}
+
+    {{- /* Footer */ -}}
+    {{- partial "section.html" . -}}
+
+    {{- /* Comment */ -}}
+    {{ partial "comments.html" . }}
   </article>
-  {{ partial "comments.html" . }}
 </section>
