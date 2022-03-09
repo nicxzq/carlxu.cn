@@ -32,7 +32,7 @@
     & a.next {
       font-size: 1rem;
       font-weight: 600;
-      @include transition(all 0.3s ease-out);
+      transition: all 0.3s ease-out;
     }
 
     & a.prev {
@@ -40,15 +40,12 @@
     }
 
     & a.prev:hover {
-      @include transform(translateX(-4px));
+      transform: translateX(-4px);
     }
 
     & a.next {
       float: right;
     }
 
-    & a.next:hover {
-      @include transform(translateX(4px));
-    }
   }
 }
